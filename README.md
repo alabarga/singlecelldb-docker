@@ -1,5 +1,5 @@
 # singlecelldb-docker
-Docker for easy deployment of singlecelldb
+Docker for easy deployment of singlecelldb. It encapsulates Django app with Postgres, Gunicorn, and Nginx
 
 
 ## Want to test this project?
